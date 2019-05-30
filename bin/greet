@@ -1,8 +1,11 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
+<<<<<<< HEAD
 puts "Hi! I'm HAL, what's your name?"
 
 name = gets.strip
 
 greeting(name)
+=======
+>>>>>>> 67b3fc9f10775a97a16380a6b79e99a2f316888c
